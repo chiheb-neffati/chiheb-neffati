@@ -6,7 +6,7 @@ Currently an embedded systems engineering student at the National Engineering Sc
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [chihebneffati@gmail.com](mailto:chihebneffati@gmail.com)
-* 🧠  I'm learning about Artificial intelligence/ML for lightweight systems
+* 🧠  I'm currently learning more about IoT and Artificial intelligence/ML for lightweight systems
 
 ### Skills
 
