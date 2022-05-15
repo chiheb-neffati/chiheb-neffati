@@ -4,9 +4,9 @@ Hi 👋 My name is Chiheb NEFFATI
 Currently an embedded systems engineering student at the National Engineering School of Carthage
 ------------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Tunisia
-* ✉️  You can contact me at [chihebneffati@gmail.com](mailto:chihebneffati@gmail.com)
-* 🧠  I'm currently learning more about IoT and Artificial intelligence/ML for lightweight systems
+* 🌍  I'm based in Tunisia.
+* ✉️  You can contact me at [chihebneffati@gmail.com](mailto:chihebneffati@gmail.com).
+* 🧠  I'm currently learning more about IoT and Artificial intelligence/ML.
 
 ### Skills
 
